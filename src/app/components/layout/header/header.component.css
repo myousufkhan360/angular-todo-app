@@ -1,0 +1,15 @@
+.header {
+    background: #003333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .header a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .alpha {
+    padding-top: 20px;
+  }
